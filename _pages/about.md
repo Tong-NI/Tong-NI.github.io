@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! 
+**Welcome!** 
 
 I am currently a Ph.D. candidate in the School of Economics at [Singapore Management University](https://economics.smu.edu.sg/).
 
