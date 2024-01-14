@@ -20,6 +20,10 @@ redirect_from:
 - Diplôme d'Ingénieur (equivalent to M.Eng.), CentraleSupélec (Univesity of Paris Saclay), 2016 - 2018
 - B.Eng. in Electrical Engineering and Automation, Xi’an Jiaotong University, 2014-2018
 
+### Conference and Seminar Presentations (* for present by coauthors)
+- International Trade Workshop*, Chinese University of Hong Kong, Hong Kong SAR, 2023
+- International Trade Workshop, Singapre Management University, Singapore, 2023
+
 ### Honors and Scholarships
 - Hornos and Awards
   - Best First-Year Student Award, Singapore Management University, 2022
@@ -28,12 +32,9 @@ redirect_from:
  
 - Scholarships
   - Doctoral Full Scholarship, Ministry of Education, Singapore, 2021-2025
-  - First-tier Academic Scholarship, Xi’an Jiaotong University, 2018-2021
+  - First-Tier Academic Scholarship, Xi’an Jiaotong University, 2018-2021
   - Eiffel Scholarship, Ministry for Europe and Foreign Affairs, France, 2016 - 2018
   - UHV Scholarship, State Grid Corporation of China, 2014-2015
-
-### Conference and Seminar Presentations (* for present by coauthors)
-- 2023: CUHK International Trade Workshop*, SMU International Trade Workshop
 
 ### Skills
 - Matlab, STATA, Python, LaTex
