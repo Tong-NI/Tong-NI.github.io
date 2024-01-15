@@ -17,7 +17,7 @@ redirect_from:
 
 - Ph.D. in Economics, Singapore Management University, 2021- 2026 (expected)
 - M.A. in Economics, Xi'an Jiaotong University, 2018 - 2021
-- Diplôme d'Ingénieur (equivalent to M.Eng.), CentraleSupélec (Univesity of Paris Saclay), 2016 - 2018
+- Diplôme d'Ingénieur (equivalent to M.Eng.), CentraleSupélec (Paris-Saclay University), 2016 - 2018
 - B.Eng. in Electrical Engineering and Automation, Xi’an Jiaotong University, 2014-2018
 
 ### Conference and Seminar Presentations (* for present by coauthors)
