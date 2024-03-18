@@ -1,4 +1,4 @@
----
+![image](https://github.com/Tong-NI/Tong-NI.github.io/assets/62181599/43836472-ef9b-469d-a70e-a30a0f3c0f7f)---
 layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
@@ -21,8 +21,9 @@ redirect_from:
 - B.Eng. in Electrical Engineering and Automation, Xi’an Jiaotong University, 2014-2018
 
 ### Conference and Seminar Presentations (* for present by coauthors)
-- International Trade Workshop*, Chinese University of Hong Kong, Hong Kong SAR, 2023
-- International Trade Workshop, Singapre Management University, Singapore, 2023
+- Singapore Rising Scholars Conference, Singapore, 2024
+- CUHK International Trade Workshop*, Hong Kong SAR, 2023
+- SMU International Trade Workshop, Singapore, 2023
 
 ### Honors and Scholarships
 - Hornos and Awards
