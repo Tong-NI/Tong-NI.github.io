@@ -10,10 +10,6 @@ author_profile: true
 **Please find a PDF version of my [CV](https://tong-ni.github.io/files/CV_20240328.pdf){: .btn--research}. (Lastest update: March 28, 2024)**
 
 ------
-### Teaching and Research Fields
-  - International Trade
-  - Spatial Economics
-
 ### Education
 
 - Ph.D. in Economics, Singapore Management University, 2021- 2026 (expected)
