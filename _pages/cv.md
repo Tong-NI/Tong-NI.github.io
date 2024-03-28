@@ -20,7 +20,7 @@ author_profile: true
 ### Conference and Seminar Presentations
 - Asian Meeting of Econometrics Society, China, 2024
 - Singapore Rising Scholars Conference, Singapore, 2024
-- SMU International Trade Workshop, Singapore, 2023
+- SMU International Trade Study Group, Singapore, 2023
 
 ### Honors and Scholarships
 - Hornos and Awards
