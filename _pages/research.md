@@ -7,7 +7,7 @@ author_profile: true
 
 ------
 ### Working Papers
-- **“Tariffs as Bargaining Chips: A Quantitative Analysis of US-China Trade War"**
+- **Tariffs as Bargaining Chips: A Quantitative Analysis of US-China Trade War**
   
   (with [Naiyuan Hu](https://naiyuanh.github.io/) and [Yuan Mei](https://sites.google.com/site/meiyecon/home))
    <details>
