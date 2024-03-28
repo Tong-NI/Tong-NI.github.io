@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Please find a PDF version of my [CV](https://Tong-Ni.github.io/files/CV_20240328.pdf){: .btn--research}. (Lastest update: March 28, 2024)**
+**Please find a PDF version of my [CV](https://Tong-NI.github.io/files/CV_20240328.pdf){: .btn--research}. (Lastest update: March 28, 2024)**
 
 ------
 ### Teaching and Research Fields
