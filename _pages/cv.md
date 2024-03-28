@@ -16,13 +16,13 @@ redirect_from:
 ### Education
 
 - Ph.D. in Economics, Singapore Management University, 2021- 2026 (expected)
-- M.A. in Economics, Xi'an Jiaotong University, 2018 - 2021
-- Diplôme d'Ingénieur (equivalent to M.Eng.), CentraleSupélec (Paris-Saclay University), 2016 - 2018
-- B.Eng. in Electrical Engineering and Automation, Xi’an Jiaotong University, 2014-2018
+- M.A., Economics, Xi'an Jiaotong University, 2018 - 2021
+- B.Eng., Electrical Engineering and Automation, Xi’an Jiaotong University, 2014-2018
+- Dual Degree: Diplôme d’ingénieur (equivalent to Msc. Eng.), CentraleSupélec (Paris-Saclay University), 2016 - 2018
 
-### Conference and Seminar Presentations (* for present by coauthors)
+### Conference and Seminar Presentations
+- Asian Meeting of Econometrics Society, China, 2024
 - Singapore Rising Scholars Conference, Singapore, 2024
-- CUHK International Trade Workshop*, Hong Kong SAR, 2023
 - SMU International Trade Workshop, Singapore, 2023
 
 ### Honors and Scholarships
@@ -38,5 +38,5 @@ redirect_from:
   - UHV Scholarship, State Grid Corporation of China, 2014-2015
 
 ### Skills
-- Matlab, STATA, Python, LaTex
+- Matlab, STATA, Julia, Python, LaTex
 - English (Fluent), French (Intermediate, B2), Mandarin (Native)
