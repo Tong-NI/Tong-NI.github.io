@@ -1,10 +1,8 @@
-![image](https://github.com/Tong-NI/Tong-NI.github.io/assets/62181599/43836472-ef9b-469d-a70e-a30a0f3c0f7f)---
+---
 layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
