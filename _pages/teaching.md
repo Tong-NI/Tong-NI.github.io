@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+------
 ### Teaching Assistant, Singapore Management University
 - International Economics (Undergraduate), Prof. Yang Jiao, Spring 2024
 - Economics of Globalization (Undergraduate), Prof. Yuan Mei, Fall 2023
@@ -14,6 +15,6 @@ author_profile: true
 ### Teaching Assistant, Xi'an Jiaotong University
 - Econometrics I (Master), Prof. Weihong Zeng, Fall 2020
 - Panel Data Analysis (Master), Prof. Goeun Lee, Spring 2020  
-- Principles of Economics (Undergraduate), Prof. Yu-sen Kwoh, Spring 2020  
+- Principles of Economics (Undergraduate), Prof. Yu-Sen Kwoh, Spring 2020  
 
 
