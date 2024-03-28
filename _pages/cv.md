@@ -30,7 +30,7 @@ author_profile: true
  
 - Scholarships
   - Doctoral Full Scholarship, Ministry of Education, Singapore, 2021-2025
-  - First-Tier Academic Scholarship, Xi’an Jiaotong University, 2018-2021
+  - Academic Scholarship, Xi’an Jiaotong University, 2018-2021
   - Eiffel Scholarship, Ministry for Europe and Foreign Affairs, France, 2016 - 2018
   - UHV Scholarship, State Grid Corporation of China, 2014-2015
 
