@@ -16,7 +16,7 @@ author_profile: true
 - Ph.D. in Economics, Singapore Management University, 2021- 2026 (expected)
 - M.A., Economics, Xi'an Jiaotong University, 2018 - 2021
 - B.Eng., Electrical Engineering and Automation, Xi’an Jiaotong University, 2014-2018
-- Dual Degree: Diplôme d’ingénieur (equivalent to Msc. Eng.), CentraleSupélec (Paris-Saclay University), 2016 - 2018
+  - Dual Degree: Diplôme d’ingénieur (equivalent to Msc. Eng.), CentraleSupélec (Paris-Saclay University), 2016 - 2018
 
 ### Conference and Seminar Presentations
 - Asian Meeting of Econometrics Society, China, 2024
