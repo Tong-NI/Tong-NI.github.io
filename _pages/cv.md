@@ -11,16 +11,15 @@ author_profile: true
 
 ------
 ### Education
-
 - Ph.D. in Economics, Singapore Management University, 2021- 2026 (expected)
 - M.A., Economics, Xi'an Jiaotong University, 2018 - 2021
 - B.Eng., Electrical Engineering and Automation, Xi’an Jiaotong University, 2014-2018
   - Dual Degree: Diplôme d’ingénieur (equivalent to Msc. Eng.), CentraleSupélec (Paris-Saclay University), 2016 - 2018
 
 ### Conference and Seminar Presentations
-- Asian Meeting of Econometrics Society, China, 2024
-- Singapore Rising Scholars Conference, Singapore, 2024
-- SMU International Trade Study Group, Singapore, 2023
+- Asian Meeting of the Econometrics Society, Zhejiang University, China, 2024
+- Singapore Rising Scholars Conference, Singapore Management University, Singapore, 2024
+- International Trade Study Group, Singapore Management University, Singapore, 2023
 
 ### Honors and Scholarships
 - Hornos and Awards
