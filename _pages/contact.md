@@ -13,4 +13,4 @@ redirect_from:
 **Location**<br>School of Economics, Singapore Management University, 178903 Singapore 
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=UQhBEWDdnUVHYz6elaX6tyohVEBbnI94FSRY1fEjI0I&cl=ffffff&w=a"></script>
+<a href="https://clustrmaps.com/site/1bz6m"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=UQhBEWDdnUVHYz6elaX6tyohVEBbnI94FSRY1fEjI0I&cl=ffffff" /></a>
