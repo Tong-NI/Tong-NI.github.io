@@ -14,4 +14,4 @@ I am currently a Ph.D. candidate in the [School of Economics](https://economics.
 
 ### Research Interests
 **Primary:**   International Trade, Spatial Economics <br>
-**Secondary:** Development Economics, Applied Economics
+**Secondary:** Development Economics, Applied Microeconomics
