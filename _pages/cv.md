@@ -23,6 +23,7 @@ author_profile: true
 
 ### Honors and Scholarships
 - Hornos and Awards
+  - Presidential Doctoral Fellowship, Singapore Management University, 2024-2025
   - Best First-Year Student Award, Singapore Management University, 2022
   - Distinguished Master’s Thesis Award, Xi'an Jiaotong University, 2021
   - Excellent Postgraduate, Xi'an Jiaotong University, 2020
