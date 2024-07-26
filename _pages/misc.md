@@ -10,4 +10,4 @@ redirect_from:
 ------
 **Bon Voyage**<br>
 
-[Hello world!](https://tong-ni.github.io/images/map_202407.png)**
+![Hello world!](https://tong-ni.github.io/images/map_202407.png)
