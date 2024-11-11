@@ -18,5 +18,7 @@ author_profile: true
 
 ------
 ### Research Experience
-- Research Assistant to Prof. Pao-Li Chang, Singapore Management University, 2023
-- Research Assistant to Prof. Yuan Mei, Singapore Management University, 2022-2023
+- Research Assistant to Prof. [Lin Ma](https://lin-ma.com/index.html#/), Singapore Management University, 2024
+- Research Assistant to Prof. [Christine Ho](https://sites.google.com/site/christineho5/), Singapore Management University, 2023
+- Research Assistant to Prof. [Pao-Li Chang](http://www.mysmu.edu/faculty/plchang/), Singapore Management University, 2023
+- Research Assistant to Prof. [Yuan Mei](https://sites.google.com/site/meiyecon/home), Singapore Management University, 2022-2024
