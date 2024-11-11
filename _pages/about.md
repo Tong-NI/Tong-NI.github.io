@@ -17,6 +17,5 @@ I am currently a Ph.D. candidate in the [School of Economics](https://economics.
 **Secondary:** Development Economics, Applied Microeconomics <br><br><br>
 
 -----------
-<div class="wrapper" onclick="return false;" oncontextmenu="return false;">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=116baa&w=a&t=n&d=l4NOF0EHvJbL-Y527vkql27ZUsu-WPoKNsUXt_Bsm_Y&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>
-</div>
+
