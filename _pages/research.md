@@ -7,11 +7,11 @@ author_profile: true
 
 ------
 ### Working Papers
-- **Tariffs as Bargaining Chips: A Quantitative Analysis of US-China Trade War**
+- [**Tariffs as Bargaining Chips: A Quantitative Analysis of US-China Trade War**](https://tong-ni.github.io/files/Tariffs_as_Bargaining_Chips.pdf)
   <br>(with [Naiyuan Hu](https://naiyuanh.github.io/) and [Yuan Mei](https://sites.google.com/site/meiyecon/home))
    <details>
    <summary>Abstract</summary>
-   The Biden administration has maintained Trump tariffs on Chinese imports, despite the promise to remove them before the 2020 presidential election. We investigate the hypothesis that these tariffs serve as leverage in future trade talks with China. We develop a quantitative model that incorporates disaggregated U.S. regions and international trade linkages to estimate U.S.–China bargaining power and compute the optimal cooperative tariffs under Nash bargaining. Simulation results show that the trade war always improves U.S. welfare in the cooperative equilibrium regardless of bargaining power. With an estimated U.S. bargaining power of 0.47, the trade war with China yields a post-negotiation welfare improvement of 0.04% for the U.S.
+   Non-cooperative tariffs change outside options and thus affect welfare outcomes in poten- tial tariff negotiations. We focus on the U.S.–China trade war from 2018 through 2019 and examine whether such tariffs can serve as leverage to improve U.S. post-negotiation welfare. With a multi-country, multi-sector quantitative trade model, we simulate negotiations from two starting points: the 2017 baseline and the 2019 trade-war equilibrium. Our results show that, across reasonable estimates of U.S. bargaining power, imposing trade-war tariffs before the negotiations consistently enhances U.S. post-negotiation welfare.
     </details>
 
 <br>
