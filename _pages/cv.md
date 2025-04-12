@@ -17,6 +17,7 @@ author_profile: true
   - Dual Degree: Diplôme d’ingénieur (equivalent to Msc. Eng.), CentraleSupélec (Paris-Saclay University), 2016 - 2018
 
 ### Conference and Seminar Presentations
+- European Trade Study Group, Athens University of Economics and Business, Greece, 2024
 - Asian Meeting of the Econometrics Society, Zhejiang University, China, 2024
 - Singapore Rising Scholars Conference, Singapore Management University, Singapore, 2024
 - International Trade Study Group, Singapore Management University, Singapore, 2023
