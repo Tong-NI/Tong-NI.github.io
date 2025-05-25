@@ -10,11 +10,13 @@ redirect_from:
 
 ## Welcome!
 
-I am currently a Ph.D. candidate in the [School of Economics](https://economics.smu.edu.sg/) at [Singapore Management University](https://www.smu.edu.sg/).
+I am currently a fourth-year Ph.D. candidate in the [School of Economics](https://economics.smu.edu.sg/) at [Singapore Management University](https://www.smu.edu.sg/).
 
 ### Research Interests
 **Primary:**   International Trade, Spatial Economics <br>
 **Secondary:** Development Economics, Applied Microeconomics <br><br><br>
+
+You can reach me at [tongni.2021@phdecons.smu.edu.sg](mailto:tongni.2021@phdecons.smu.edu.sg)
 
 -----------
 <div class="wrapper" onclick="return false;" oncontextmenu="return false;">
