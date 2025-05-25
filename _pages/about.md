@@ -14,9 +14,9 @@ I am currently a fourth-year Ph.D. candidate in the [School of Economics](https:
 
 ### Research Interests
 **Primary:**   International Trade, Spatial Economics <br>
-**Secondary:** Development Economics, Applied Microeconomics <br><br><br>
+**Secondary:** Development Economics, Applied Microeconomics <br><br>
 
-You can reach me at [tongni.2021@phdecons.smu.edu.sg](mailto:tongni.2021@phdecons.smu.edu.sg)
+You can reach me at [tongni.2021@phdecons.smu.edu.sg](mailto:tongni.2021@phdecons.smu.edu.sg) <br><br><br>
 
 -----------
 <div class="wrapper" onclick="return false;" oncontextmenu="return false;">
