@@ -15,7 +15,7 @@ author_profile: true
     </details> <br>
 
 - **Higher Education, Graduate Mobility, and Spatial Development** (_draf coming soon_)
-  <br>with [Naiyuan Hu](https://naiyuanh.github.io/), [Lin Ma](https://lin-ma.com/index.html), and [Ben Zou](https://www.zouben.net/research.html)
+  <br>with [Naiyuan Hu](https://naiyuanh.github.io/), [Lin Ma](https://lin-ma.com/index.html), and [Ben Zou](https://www.zouben.net/)
    <details>
    <summary>Abstract</summary>
    Government decisions on higher-education policy shape human capital formation, spatial inequality, and long-run economic development. We develop a dynamic spatial life-cycle general equilibrium model in which individuals endogenously choose education and migration, while local governments set admission quotas and allocate education budgets. The model captures a quantity-quality trade-off and strategic interactions across regions arising from graduate mobility. Quantified to the context of China, our counterfactuals show that, given initially scarce capacity, expanding college seats delivered larger welfare and human capital gains than a quality-focused alternative. Yet China's observed expansion path remains inefficient relative to a social planner benchmark, with substantial welfare losses and heightened spatial inequality. Allowing provinces to act strategically improves welfare but inefficiency persists due to free-riding by attractive destinations and incomplete-contract incentives faced by education providers. Finally, we show that optimal place-based policies depend on development stage: advanced provinces benefit from front-loaded education investment, while lagging provinces optimally back-load spending.
