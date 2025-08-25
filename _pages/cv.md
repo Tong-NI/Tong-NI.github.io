@@ -17,17 +17,18 @@ author_profile: true
   - Dual Degree: Diplôme d’ingénieur (equivalent to Msc. Eng.), CentraleSupélec (Paris-Saclay University), 2016 - 2018
 
 ### Conference and Seminar Presentations
+- HKUST-Fudan-SMU Conference on International Economics, Fudan University, 2025
+- Asia Pacific Trade Seminars, University of Tokyo, 2025
 - European Trade Study Group, Athens University of Economics and Business, Greece, 2024
 - Asian Meeting of the Econometrics Society, Zhejiang University, China, 2024
 - Singapore Rising Scholars Conference, Singapore Management University, Singapore, 2024
-- International Trade Study Group, Singapore Management University, Singapore, 2023
 
 ### Honors and Scholarships
 - Hornos and Awards
+  - Interdisciplinary Doctoral Fellowship, Singapore Management University, 2025-2026
   - Presidential Doctoral Fellowship, Singapore Management University, 2024-2025
   - Best First-Year Student Award, Singapore Management University, 2022
   - Distinguished Master’s Thesis Award, Xi'an Jiaotong University, 2021
-  - Excellent Postgraduate, Xi'an Jiaotong University, 2020
  
 - Scholarships
   - Doctoral Full Scholarship, Ministry of Education, Singapore, 2021-2025
@@ -37,5 +38,5 @@ author_profile: true
 
 ### Skills
 - Matlab, STATA, Julia, Python, LaTex
-- English (Fluent), French (Intermediate, B2), Mandarin (Native)
+- English (Fluent), French (Intermediate), Mandarin (Native)
 
