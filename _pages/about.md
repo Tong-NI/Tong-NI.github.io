@@ -10,7 +10,7 @@ redirect_from:
 
 ## Welcome!
 
-I am currently a final-year Ph.D. candidate in the [School of Economics](https://economics.smu.edu.sg/) at [Singapore Management University](https://www.smu.edu.sg/). My research interests lie in International Trade, Urban and Regional Economics, and Applied Microeconomics.
+I am currently a final-year Ph.D. candidate in the [School of Economics](https://economics.smu.edu.sg/) at [Singapore Management University](https://www.smu.edu.sg/). My research interests lie in **International Trade**, **Urban and Regional Economics**, and **Applied Microeconomics**.
 
 I am on the 2025-2026 Economics Job Market and available for interviews.
 
