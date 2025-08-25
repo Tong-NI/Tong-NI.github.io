@@ -19,9 +19,9 @@ author_profile: true
 ### Conference and Seminar Presentations
 - HKUST-Fudan-SMU Conference on International Economics, Fudan University, 2025
 - Asia Pacific Trade Seminars, University of Tokyo, 2025
-- European Trade Study Group, Athens University of Economics and Business, Greece, 2024
-- Asian Meeting of the Econometrics Society, Zhejiang University, China, 2024
-- Singapore Rising Scholars Conference, Singapore Management University, Singapore, 2024
+- European Trade Study Group, Athens University of Economics and Business, 2024
+- Asian Meeting of the Econometrics Society, Zhejiang University, 2024
+- Singapore Rising Scholars Conference (_Best Paper Award_), Singapore Management University, 2024
 
 ### Honors and Scholarships
 - Hornos and Awards
