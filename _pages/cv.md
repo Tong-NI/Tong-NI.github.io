@@ -12,8 +12,8 @@ author_profile: true
 ------
 ### Education
 - Ph.D. in Economics, Singapore Management University, 2021–2026 (expected)
-- M.A. in Economics, Xi'an Jiaotong University, 2018–2021
-- B.Eng. in Electrical Engineering and Automation, Xi’an Jiaotong University, 2014–2018  
+- M.Econ., Applied Economics, Xi'an Jiaotong University, 2018–2021
+- B.Eng., Electrical Engineering and Automation, Xi’an Jiaotong University, 2014–2018  
   - Dual Degree: Diplôme d’ingénieur (equivalent to M.Sc. Eng.), CentraleSupélec (Paris-Saclay University), 2016–2018
 
 ### Conference and Seminar Presentations
@@ -37,5 +37,5 @@ author_profile: true
   - UHV Scholarship, State Grid Corporation of China, 2014–2015
 
 ### Skills
-- Programming: Matlab, Stata, Julia, Python, LaTeX
+- Programming: MATLAB, Stata, Julia, Python, LaTeX
 - Languages: English (Fluent), French (Intermediate), Mandarin (Native)
