@@ -37,5 +37,5 @@ author_profile: true
   - UHV Scholarship, State Grid Corporation of China, 2014–2015
 
 ### Skills
-- Matlab, Stata, Julia, Python, LaTeX
+- Programming: Matlab, Stata, Julia, Python, LaTeX
 - Languages: English (Fluent), French (Intermediate), Mandarin (Native)
