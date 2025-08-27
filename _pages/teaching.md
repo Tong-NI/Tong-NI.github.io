@@ -14,8 +14,8 @@ author_profile: true
 - Microeconomics II (Ph.D.), Prof. Shurojit Chatterji, Fall 2022 & 2023 & 2024
 
 ### Teaching Assistant, Xi'an Jiaotong University
-- Econometrics I (Master), Prof. Weihong Zeng, Fall 2020
-- Panel Data Analysis (Master), Prof. Goeun Lee, Spring 2020  
+- Econometrics I (Master's), Prof. Weihong Zeng, Fall 2020
+- Panel Data Analysis (Master's), Prof. Goeun Lee, Spring 2020  
 - Principles of Economics (Undergraduate), Prof. Yu-Sen Kwoh, Spring 2020  
 
 
