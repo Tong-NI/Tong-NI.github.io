@@ -25,15 +25,19 @@ author_profile: true
   <br>with [Naiyuan Hu](https://naiyuanh.github.io/) and [Yuan Mei](https://sites.google.com/site/meiyecon/home)
    <details>
    <summary>Abstract</summary>
-   Non-cooperative tariffs change outside options and thus affect welfare outcomes in poten- tial tariff negotiations. We focus on the U.S.–China trade war from 2018 through 2019 and examine whether such tariffs can serve as leverage to improve U.S. post-negotiation welfare. With a multi-country, multi-sector quantitative trade model, we simulate negotiations from two starting points: the 2017 baseline and the 2019 trade-war equilibrium. Our results show that, across reasonable estimates of U.S. bargaining power, imposing trade-war tariffs before the negotiations consistently enhances U.S. post-negotiation welfare.
+   Non-cooperative tariffs change outside options and thus affect welfare outcomes in potential tariff negotiations. We focus on the U.S.–China trade war from 2018 through 2019 and examine whether such tariffs can serve as leverage to improve U.S. post-negotiation welfare. With a multi-country, multi-sector quantitative trade model, we simulate negotiations from two starting points: the 2017 baseline and the 2019 trade-war equilibrium. Our results show that, across reasonable estimates of U.S. bargaining power, imposing trade-war tariffs before the negotiations consistently enhances U.S. post-negotiation welfare.
     </details> <br>
 
 ------
 ### Selected Work in Progress
 - **Relaxation of Internal Migration Restrictions and Labor Market Sorting**, with [Yutao Wang](https://yutao-wang-econ.github.io/)
 
-- **Love Panda, Love China: The Panda Effect on International Trade**, with [Wei Jin](https://weijinsite.weebly.com/), Dingfan Kang, [Angdi Lu](http://ae.ruc.edu.cn/szdw/qzjs/apypx/L/apylad/index.htm), and [Pao-Li Chang](http://www.mysmu.edu/faculty/plchang/)
+- **Love Panda, Love China: The Panda Effect on International Trade**, with [Pao-Li Chang](http://www.mysmu.edu/faculty/plchang/), [Wei Jin](https://weijinsite.weebly.com/), Dingfan Kang, and [Angdi Lu](http://ae.ruc.edu.cn/szdw/qzjs/apypx/L/apylad/index.htm)
+<br>
 
+------
+### Publications
+- **Climate Change, Trade Cost, and Economic Growth (In Chinese)**, with Ce Guo and [Huanhuan Wang](https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm), _Management World (管理世界)_, 2025
 <br>
 
 ------
