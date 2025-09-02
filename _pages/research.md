@@ -35,11 +35,12 @@ author_profile: true
 - **Love Panda, Love China: The Panda Effect on International Trade**, with [Pao-Li Chang](http://www.mysmu.edu/faculty/plchang/), [Wei Jin](https://weijinsite.weebly.com/), Dingfan Kang, and [Angdi Lu](http://ae.ruc.edu.cn/szdw/qzjs/apypx/L/apylad/index.htm)
 <br>
 
+<!---
 ------
 ### Publications
 - **Climate Change, Trade Cost, and Economic Growth (In Chinese)**, with Ce Guo and [Huanhuan Wang](https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm), _Management World (管理世界)_, 2025
 <br>
-
+--->
 ------
 ### Research Experience
 - Research Assistant to Prof. [Lin Ma](https://lin-ma.com/index.html#/), Singapore Management University, 2024
