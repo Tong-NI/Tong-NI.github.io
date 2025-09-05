@@ -14,7 +14,7 @@ author_profile: true
    We assess the environmental and economic impacts of the European Union’s Carbon Border Adjustment Mechanism (CBAM). We develop a multi-country, multi-sector general equilibrium model that incorporates input–output linkages, carbon supply chains, and global emission externalities. Our results show that unilateral CBAM modestly reduces global emissions due to indirect carbon leakage through energy markets, while broader sectoral coverage weakens effectiveness by further diluting industrial reallocation incentives. Global welfare improves marginally when environmental benefits are accounted for. Strategic carbon policy adjustments under a non-cooperative Nash equilibrium enhance effectiveness by mitigating both free riding and indirect leakage. Multilateral decarbonization negotiations yield substantial gains, with CBAM functioning as a powerful enforcement device that raises the cost of disagreement and fosters deeper global climate cooperation.
     </details> <br>
 
-- **Investing in a Mobile Asset: Higher Education, Graduate Mobility, and Underinvestmentt** (_draft coming soon_)
+- **Investing in a Mobile Asset: Higher Education, Graduate Mobility, and Underinvestment** (_draft coming soon_)
   <br>with [Naiyuan Hu](https://naiyuanh.github.io/), [Lin Ma](https://lin-ma.com/index.html), and [Ben Zou](https://www.zouben.net/)
    <details>
    <summary>Abstract</summary>
