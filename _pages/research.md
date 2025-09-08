@@ -30,9 +30,9 @@ author_profile: true
 
 ------
 ### Selected Work in Progress
-- **Relaxation of Internal Migration Restrictions and Labor Market Sorting**, with [Yutao Wang](https://yutao-wang-econ.github.io/)
-
 - **Love Panda, Love China: The Panda Effect on International Trade**, with [Pao-Li Chang](http://www.mysmu.edu/faculty/plchang/), [Wei Jin](https://weijinsite.weebly.com/), Dingfan Kang, and [Angdi Lu](http://ae.ruc.edu.cn/szdw/qzjs/apypx/L/apylad/index.htm)
+  
+- **Relaxation of Internal Migration Restrictions and Labor Market Sorting**, with [Yutao Wang](https://yutao-wang-econ.github.io/)
 <br>
 
 <!---
