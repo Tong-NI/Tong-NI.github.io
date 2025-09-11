@@ -35,12 +35,11 @@ author_profile: true
 - **Relaxation of Internal Migration Restrictions and Labor Market Sorting**, with [Yutao Wang](https://yutao-wang-econ.github.io/)
 <br>
 
-<!---
 ------
 ### Publications
-- **Climate Change, Trade Cost, and Economic Growth (In Chinese)**, with Ce Guo and [Huanhuan Wang](https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm), _Journal of Management World (管理世界)_, 2025
+- **Climate Change, Trade Cost, and Economic Growth: A Quantitative Estimation Based on International Shipping Data**,with Ce Guo and [Huanhuan Wang](https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm), _Journal of Management World(管理世界)_, 2025
 <br>
---->
+
 ------
 ### Research Experience
 - Research Assistant to Prof. [Lin Ma](https://lin-ma.com/index.html#/), Singapore Management University, 2024
