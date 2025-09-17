@@ -8,7 +8,7 @@ author_profile: true
 ------
 ### Working Papers
 - **Carbon Border Adjustment Mechanism and Trade Policy: A Quantitative Analysis** (_draft coming soon_)
-  <br>with [Haichao Fan](https://fanhaichao.weebly.com/), [Yuan Mei](https://sites.google.com/site/meiyecon/home), and [Huanhuan Wang](https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm)
+  <br>with <a href="https://fanhaichao.weebly.com/" target="_blank" rel="noopener noreferrer">Haichao Fan</a>, [Yuan Mei](https://sites.google.com/site/meiyecon/home), and [Huanhuan Wang](https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm)
    <details>
    <summary>Abstract</summary>
    We assess the environmental and economic impacts of the European Union’s Carbon Border Adjustment Mechanism (CBAM). We develop a multi-country, multi-sector general equilibrium model that incorporates input–output linkages, carbon supply chains, and global emission externalities. Our results show that unilateral CBAM modestly reduces global emissions due to indirect carbon leakage through energy markets, while broader sectoral coverage weakens effectiveness by further diluting industrial reallocation incentives. Global welfare improves marginally when environmental benefits are accounted for. Strategic carbon policy adjustments under a non-cooperative Nash equilibrium enhance effectiveness by mitigating both free riding and indirect leakage. Multilateral decarbonization negotiations yield substantial gains, with CBAM functioning as a powerful enforcement device that raises the cost of disagreement and fosters deeper global climate cooperation.
