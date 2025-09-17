@@ -7,7 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-**Please find a PDF version of my [CV](https://tong-ni.github.io/files/CV_20240328.pdf){: .btn--research}. (Latest update: March 28, 2024)**
+<strong>
+  Please find a PDF version of my 
+  <a href="https://tong-ni.github.io/files/CV_20240328.pdf" target="_blank" rel="noopener noreferrer" class="btn--research">CV</a>. 
+  (Latest update: March 28, 2024)
+</strong>
 
 ------
 ### Education
