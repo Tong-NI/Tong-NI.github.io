@@ -7,14 +7,14 @@ author_profile: true
 
 ------
 ### Working Papers
-- **Carbon Border Adjustment Mechanism and Trade Policy: A Quantitative Analysis** (_draft coming soon_)
+- **Carbon Border Adjustment Mechanism and Trade Policy: A Quantitative Analysis** (_new draft coming soon_)
   <br>with <a href="https://fanhaichao.weebly.com/" target="_blank" rel="noopener noreferrer">Haichao Fan</a>, <a href="https://sites.google.com/site/meiyecon/home" target="_blank" rel="noopener noreferrer">Yuan Mei</a>, and <a href="https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm" target="_blank" rel="noopener noreferrer">Huanhuan Wang</a>
    <details>
    <summary>Abstract</summary>
    We assess the environmental and economic impacts of the European Union’s Carbon Border Adjustment Mechanism (CBAM). We develop a multi-country, multi-sector general equilibrium model that incorporates input–output linkages, carbon supply chains, and global emission externalities. Our results show that unilateral CBAM modestly reduces global emissions due to indirect carbon leakage through energy markets, while broader sectoral coverage weakens effectiveness by further diluting industrial reallocation incentives. Global welfare improves marginally when environmental benefits are accounted for. Strategic carbon policy adjustments under a non-cooperative Nash equilibrium enhance effectiveness by mitigating both free riding and indirect leakage. Multilateral decarbonization negotiations yield substantial gains, with CBAM functioning as a powerful enforcement device that raises the cost of disagreement and fosters deeper global climate cooperation.
     </details> <br>
 
-- **Investing in a Mobile Asset: Higher Education, Graduate Mobility, and Underinvestment** (_draft coming soon_)
+- **Investing in a Mobile Asset: Higher Education, Graduate Mobility, and Underinvestment** (_new draft coming soon_)
   <br>with <a href="https://naiyuanh.github.io/" target="_blank" rel="noopener noreferrer">Naiyuan Hu</a>, <a href="https://lin-ma.com/index.html" target="_blank" rel="noopener noreferrer">Lin Ma</a>, and <a href="https://www.zouben.net/" target="_blank" rel="noopener noreferrer">Ben Zou</a>
    <details>
    <summary>Abstract</summary>
