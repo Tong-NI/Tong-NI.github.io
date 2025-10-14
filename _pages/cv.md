@@ -17,8 +17,8 @@ author_profile: true
 ### Education
 - Ph.D. in Economics, Singapore Management University, 2021–2026 (expected)
 - M.Econ., Applied Economics, Xi'an Jiaotong University, 2018–2021
+- Diplôme d’Ingénieur (MSc. Eng., Dual Degree), CentraleSupélec (Paris-Saclay University), 2016–2018
 - B.Eng., Electrical Engineering and Automation, Xi’an Jiaotong University, 2014–2018  
-  - Dual Degree: Diplôme d’ingénieur (equivalent to M.Sc. Eng.), CentraleSupélec (Paris-Saclay University), 2016–2018
 
 ### Conference and Seminar Presentations
 - HKUST–Fudan–SMU Conference on International Economics, Fudan University, 2025
