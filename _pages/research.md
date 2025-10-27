@@ -7,7 +7,7 @@ author_profile: true
 
 ------
 ### Working Papers
-- **Carbon Border Adjustment Mechanism and Trade Policy: A Quantitative Analysis** (_Job Market Paper, New draft coming soon_)
+- <a href="https://tong-ni.github.io/files/CBAM.pdf" target="_blank" rel="noopener noreferrer"><strong>Carbon Border Adjustment Mechanism and Trade Policy: A Quantitative Analysis</strong></a> (_Job Market Paper_)
   <br>with <a href="https://fanhaichao.weebly.com/" target="_blank" rel="noopener noreferrer">Haichao Fan</a>, <a href="https://sites.google.com/site/meiyecon/home" target="_blank" rel="noopener noreferrer">Yuan Mei</a>, and <a href="https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm" target="_blank" rel="noopener noreferrer">Huanhuan Wang</a>
    <details>
    <summary>Abstract</summary>
@@ -21,7 +21,7 @@ author_profile: true
    Non-cooperative tariffs change outside options and thus affect welfare outcomes in potential tariff negotiations. We focus on the U.S.–China trade war from 2018 through 2019 and examine whether such tariffs can serve as leverage to improve U.S. post-negotiation welfare. With a multi-country, multi-sector quantitative trade model, we simulate negotiations from two starting points: the 2017 baseline and the 2019 trade-war equilibrium. Our results show that, across reasonable estimates of U.S. bargaining power, imposing trade-war tariffs before the negotiations consistently enhances U.S. post-negotiation welfare.
     </details> <br>
     
-- **Investing in a Mobile Asset: Higher Education, Graduate Mobility, and Underinvestment** (_New draft coming soon_)
+- **Investing in a Mobile Asset: Higher Education, Graduate Mobility, and Underinvestment** (_Draft ava soon_)
   <br>with <a href="https://naiyuanh.github.io/" target="_blank" rel="noopener noreferrer">Naiyuan Hu</a>, <a href="https://lin-ma.com/index.html" target="_blank" rel="noopener noreferrer">Lin Ma</a>, and <a href="https://www.zouben.net/" target="_blank" rel="noopener noreferrer">Ben Zou</a>
    <details>
    <summary>Abstract</summary>
