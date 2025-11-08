@@ -9,8 +9,8 @@ author_profile: true
 
 <strong>
   Please find a PDF version of my 
-  <a href="https://tong-ni.github.io/files/NI_Tong_CV.pdf" target="_blank" rel="noopener noreferrer" class="btn--research">CV</a>. 
-  (Last updated: October 28, 2025)
+  <a href="https://tong-ni.github.io/files/TongNI_CV.pdf" target="_blank" rel="noopener noreferrer" class="btn--research">CV</a>. 
+  (Last updated: November 08, 2025)
 </strong>
 
 ------
