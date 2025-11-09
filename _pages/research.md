@@ -7,7 +7,7 @@ author_profile: true
 
 ------
 ### Working Papers
-- <a href="https://tong-ni.github.io/files/TongNI_JobMarketPaper.pdf" target="_blank" rel="noopener noreferrer"><strong>Carbon Border Adjustment Mechanism and Trade Policy: A Quantitative Analysis</strong></a>, with <a href="https://fanhaichao.weebly.com/" target="_blank" rel="noopener noreferrer">Haichao Fan</a>, <a href="https://sites.google.com/site/meiyecon/home" target="_blank" rel="noopener noreferrer">Yuan Mei</a>, and <a href="https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm" target="_blank" rel="noopener noreferrer">Huanhuan Wang</a>
+- <a href="https://tong-ni.github.io/files/TongNi_JobMarketPaper.pdf" target="_blank" rel="noopener noreferrer"><strong>Carbon Border Adjustment Mechanism and Trade Policy: A Quantitative Analysis</strong></a>, with <a href="https://fanhaichao.weebly.com/" target="_blank" rel="noopener noreferrer">Haichao Fan</a>, <a href="https://sites.google.com/site/meiyecon/home" target="_blank" rel="noopener noreferrer">Yuan Mei</a>, and <a href="https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm" target="_blank" rel="noopener noreferrer">Huanhuan Wang</a>
   <br>_Job Market Paper_
    <details>
    <summary>Abstract</summary>
