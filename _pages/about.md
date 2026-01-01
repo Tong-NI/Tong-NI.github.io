@@ -20,9 +20,4 @@ My current work mainly studies how governments interact strategically with diffe
 You can reach me at <a href="mailto:tongni.2021@phdecons.smu.edu.sg" target="_blank" rel="noopener noreferrer" >tongni.2021@phdecons.smu.edu.sg</a> <br><br><br>
 
 
------------
-<div class="wrapper" onclick="return false;" oncontextmenu="return false;">
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=116baa&w=350&t=n&d=l4NOF0EHvJbL-Y527vkql27ZUsu-WPoKNsUXt_Bsm_Y&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>
-</div>
-
 
