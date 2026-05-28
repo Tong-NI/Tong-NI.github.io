@@ -10,7 +10,7 @@ redirect_from:
 
 ## Welcome!
 
-I am a final-year Ph.D. candidate in the <a href="https://economics.smu.edu.sg/" target="_blank" rel="noopener noreferrer">School of Economics</a> at <a href="https://www.smu.edu.sg/" target="_blank" rel="noopener noreferrer">Singapore Management University</a>. My research interests lie in **International Trade** and **Spatial Economics**.
+I am a final-year Ph.D. candidate in the <a href="https://economics.smu.edu.sg/" target="_blank" rel="noopener noreferrer">School of Economics</a> at <a href="https://www.smu.edu.sg/" target="_blank" rel="noopener noreferrer">Singapore Management University</a>. My research interests lie in **International Trade**, **Spatial Economics**, and **AI and Big Data for Quantitative Policy Analysis**.
 
 My current work mainly studies how governments interact strategically with different policy instruments and how those interactions shape economic performance, climate outcomes, and welfare. Methodologically, I combine targeted empirical diagnostics with structural quantitative models, embedding micro-foundations and institutional details in general equilibrium frameworks to deliver transparent counterfactuals for policy evaluation and design.
 <br>
