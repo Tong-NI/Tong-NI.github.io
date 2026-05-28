@@ -20,7 +20,11 @@ author_profile: true
    <summary>Abstract</summary>
    Non-cooperative tariffs change outside options and thus affect welfare outcomes in potential tariff negotiations. We focus on the U.S.–China trade war from 2018 through 2019 and examine whether such tariffs can serve as leverage to improve U.S. post-negotiation welfare. With a multi-country, multi-sector quantitative trade model, we simulate negotiations from two starting points: the 2017 baseline and the 2019 trade-war equilibrium. Our results show that, across reasonable estimates of U.S. bargaining power, imposing trade-war tariffs before the negotiations consistently enhances U.S. post-negotiation welfare.
     </details> <br>
-    
+
+- **EU Carbon Pricing, Carbon Border Adjustments, and Global CO2 Emissions**, with <a href="https://fanhaichao.weebly.com/" target="_blank" rel="noopener noreferrer">Haichao Fan</a>, <a href="https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm" target="_blank" rel="noopener noreferrer">Huanhuan Wang</a>, and Xiaojun Wu
+<br>Conditionally Accepted at _The World Economy_
+<br>
+
 - **Investing in a Mobile Asset: Higher Education, Graduate Mobility, and Underinvestment**, with <a href="https://naiyuanh.github.io/" target="_blank" rel="noopener noreferrer">Naiyuan Hu</a>, <a href="https://lin-ma.com/index.html" target="_blank" rel="noopener noreferrer">Lin Ma</a>, and <a href="https://www.zouben.net/" target="_blank" rel="noopener noreferrer">Ben Zou</a>
   <br>_Draft available upon request_
    <details>
@@ -28,13 +32,18 @@ author_profile: true
    Higher education produces a mobile asset—skilled graduates—who may leave the jurisdiction where they were trained, making education a “leaky” investment for local governments. We develop a dynamic spatial life-cycle general equilibrium model in which individuals endogenously choose education and migration, while local governments allocate budgets and set admission policies. Quantified to the context of China, the model shows that the observed college expansion path reflects substantial underinvestment relative to a central planner benchmark, leaving large efficiency and equality gains unrealized. Underinvestment persists in a decentralized, locally funded Nash equilibrium, as provinces strategically free ride on inflows of graduates educated elsewhere and hold back their own investment, leading to national inefficiency. Optimal place-based strategies depend on development stage: advanced regions benefit from front-loaded education investment, whereas lagging provinces optimally delay investment until productivity and retention conditions improve.
     </details> <br>
 
-------
-### Selected Work in Progress
-- **Love Panda, Love China: The Panda Effect on International Trade**, with <a href="http://www.mysmu.edu/faculty/plchang/" target="_blank" rel="noopener noreferrer">Pao-Li Chang</a>, <a href="https://weijinsite.weebly.com/" target="_blank" rel="noopener noreferrer">Wei Jin</a>, Dingfan Kang, and <a href="http://ae.ruc.edu.cn/szdw/qzjs/apypx/L/apylad/index.htm" target="_blank" rel="noopener noreferrer">Angdi Lu</a>
-  
-- **Relaxation of Internal Migration Restrictions and Labor Market Sorting**, with <a href="https://yutao-wang-econ.github.io/" target="_blank" rel="noopener noreferrer">Yutao Wang</a>
+- **Place-Based Relaxation of Internal Migration Restrictions and Labor Market Sorting**, with <a href="https://yutao-wang-econ.github.io/" target="_blank" rel="noopener noreferrer">Yutao Wang</a>
+ <br>_Draft available upon request_
 <br>
 
+
+
+------
+### Selected Work in Progress
+- **Caught in the Crossfire: Quantitative Trade Policy and LLM-Based Evidence on Third-Country Alignment in the U.S.–China Trade Conflict**, with <a href="https://sites.google.com/site/meiyecon/home" target="_blank" rel="noopener noreferrer">Yuan Mei</a>, Xinyu Wang, and <a href="http://www.mingzhixu.com/" target="_blank" rel="noopener noreferrer">Mingzhi Xu</a>
+
+- **Love Panda, Love China: The Panda Effect on International Trade**, with <a href="http://www.mysmu.edu/faculty/plchang/" target="_blank" rel="noopener noreferrer">Pao-Li Chang</a>, <a href="https://weijinsite.weebly.com/" target="_blank" rel="noopener noreferrer">Wei Jin</a>, Dingfan Kang, and <a href="http://ae.ruc.edu.cn/szdw/qzjs/apypx/L/apylad/index.htm" target="_blank" rel="noopener noreferrer">Angdi Lu</a>
+  
 ------
 ### Publications
 - **Climate Change, Trade Cost, and Economic Growth: A Quantitative Estimation Based on International Shipping Data**, with <a href="https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm" target="_blank" rel="noopener noreferrer">Huanhuan Wang</a> and Ce Guo, _Journal of Management World(管理世界)_, 2025
