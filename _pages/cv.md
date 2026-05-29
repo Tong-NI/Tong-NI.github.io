@@ -10,7 +10,6 @@ author_profile: true
 <strong>
   Please find a PDF version of my 
   <a href="https://tong-ni.github.io/files/NI_Tong_CV2026.pdf" target="_blank" rel="noopener noreferrer" class="btn--research">CV</a>. 
-  (Last updated: May 27, 2026)
 </strong>
 
 ------
