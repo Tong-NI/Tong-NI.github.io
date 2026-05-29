@@ -20,7 +20,7 @@ author_profile: true
   <br>_Draft available upon request_
 
 - **Place-Based Relaxation of Internal Migration Restrictions and Labor Market Sorting**, with <a href="https://yutao-wang-econ.github.io/" target="_blank" rel="noopener noreferrer">Yutao Wang</a>
- <br>_Draft available upon request_
+ <br>_Under Review. Draft available upon request_
 
 ------
 ### Selected Work in Progress
