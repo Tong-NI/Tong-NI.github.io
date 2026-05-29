@@ -7,6 +7,7 @@ author_profile: true
 
 ------
 ### Teaching Assistant, Singapore Management University
+- Principles of Economics I (Undergraduate), Prof. Bei Hong, Spring 2026
 - International Economics (Undergraduate), Prof. Yuan Mei, Fall 2024 & 2025
 - International Economics (Undergraduate), Prof. Yang Jiao, Spring 2024
 - Economics of Globalization (Undergraduate), Prof. Yuan Mei, Fall 2023
