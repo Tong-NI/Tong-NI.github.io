@@ -7,11 +7,13 @@ author_profile: true
 
 ------
 ### Working Papers
-- <a href="https://tong-ni.github.io/files/CBAM.pdf" target="_blank" rel="noopener noreferrer"><strong>Carbon Border Adjustment Mechanism and Trade Policy: A Quantitative Analysis</strong></a>, with <a href="https://fanhaichao.weebly.com/" target="_blank" rel="noopener noreferrer">Haichao Fan</a>, <a href="https://sites.google.com/site/meiyecon/home" target="_blank" rel="noopener noreferrer">Yuan Mei</a>, and <a href="https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm" target="_blank" rel="noopener noreferrer">Huanhuan Wang</a>
-  <br>_Job Market Paper_
+- <a href="https://tong-ni.github.io/files/CBAM.pdf" target="_blank" rel="noopener noreferrer"><strong>Carbon Border Adjustment Mechanism and Trade Policy: A Quantitative Analysis</strong></a>
+<br><span style="font-size: 0.8em;">with <a href="https://fanhaichao.weebly.com/" target="_blank" rel="noopener noreferrer">Haichao Fan</a>, <a href="https://sites.google.com/site/meiyecon/home" target="_blank" rel="noopener noreferrer">Yuan Mei</a>, and <a href="https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm" target="_blank" rel="noopener noreferrer">Huanhuan Wang</a></span>
+<br><span style="font-size: 0.8em;"><em>Job Market Paper</em></span>
 
-- <a href="https://tong-ni.github.io/files/Tariffs_as_Bargaining_Chips.pdf" target="_blank" rel="noopener noreferrer"><strong>Tariffs as Bargaining Chips: A Quantitative Analysis of US-China Trade War</strong></a>, with <a href="https://naiyuanh.github.io/" target="_blank" rel="noopener noreferrer">Naiyuan Hu</a> and <a href="https://sites.google.com/site/meiyecon/home" target="_blank" rel="noopener noreferrer">Yuan Mei</a>
-  <br>**Revise and Resubmit at _American Economic Journal: Microeconomics_**
+- <a href="https://tong-ni.github.io/files/Tariffs_as_Bargaining_Chips.pdf" target="_blank" rel="noopener noreferrer"><strong>Tariffs as Bargaining Chips: A Quantitative Analysis of US-China Trade War</strong></a>
+<br><span style="font-size: 0.8em;">with <a href="https://naiyuanh.github.io/" target="_blank" rel="noopener noreferrer">Naiyuan Hu</a> and <a href="https://sites.google.com/site/meiyecon/home" target="_blank" rel="noopener noreferrer">Yuan Mei</a></span>
+<br><span style="font-size: 0.8em;"><strong>Revise and Resubmit at <em>American Economic Journal: Microeconomics</em></strong></span>
 
 - **EU Carbon Pricing, Carbon Border Adjustments, and Global CO2 Emissions**, with <a href="https://fanhaichao.weebly.com/" target="_blank" rel="noopener noreferrer">Haichao Fan</a>, <a href="https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm" target="_blank" rel="noopener noreferrer">Huanhuan Wang</a>, and Xiaojun Wu
 <br>Conditionally Accepted at _The World Economy_
