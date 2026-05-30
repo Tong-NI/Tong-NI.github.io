@@ -17,15 +17,15 @@ author_profile: true
 
 - **EU Carbon Pricing, Carbon Border Adjustments, and Global CO2 Emissions**
 <br><span style="font-size: 0.9em;">with <a href="https://fanhaichao.weebly.com/" target="_blank" rel="noopener noreferrer">Haichao Fan</a>, <a href="https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm" target="_blank" rel="noopener noreferrer">Huanhuan Wang</a>, and Xiaojun Wu</span>
-<br><span style="font-size: 0.9em;"><strong>Conditionally Accepted at<em>The World Economy</em></strong></span>
+<br><span style="font-size: 0.9em;"><strong>Conditionally Accepted at <em>The World Economy</em></strong></span>
 
 - **Investing in a Mobile Asset: Higher Education, Graduate Mobility, and Underinvestment**
 <br><span style="font-size: 0.9em;">with <a href="https://naiyuanh.github.io/" target="_blank" rel="noopener noreferrer">Naiyuan Hu</a>, <a href="https://lin-ma.com/index.html" target="_blank" rel="noopener noreferrer">Lin Ma</a>, and <a href="https://www.zouben.net/" target="_blank" rel="noopener noreferrer">Ben Zou</a></span>
-<br><span style="font-size: 0.9em;"></em>Draft available upon request</em></span>
+<br><span style="font-size: 0.9em;"><em>Draft available upon request</em></span>
 
 - **Place-Based Relaxation of Internal Migration Restrictions and Labor Market Sorting**
 <br><span style="font-size: 0.9em;">with <a href="https://yutao-wang-econ.github.io/" target="_blank" rel="noopener noreferrer">Yutao Wang</a></span>
-<br><span style="font-size: 0.9em;"></em>Under Review. Draft available upon request</em></span>
+<br><span style="font-size: 0.9em;"><em>Under Review. Draft available upon request</em></span>
 
 ------
 ### Selected Work in Progress
@@ -40,7 +40,6 @@ author_profile: true
 - **Climate Change, Trade Cost, and Economic Growth: A Quantitative Estimation Based on International Shipping Data**
 <br><span style="font-size: 0.9em;">with <a href="https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm" target="_blank" rel="noopener noreferrer">Huanhuan Wang</a> and Ce Guo</span>
 <br><span style="font-size: 0.9em;"><strong><em>Journal of Management World(管理世界)</em></strong>, 2025, 41(09), 94–118</span>
-<br>
 
 ------
 ### Research Experience
