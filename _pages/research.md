@@ -8,31 +8,38 @@ author_profile: true
 ------
 ### Working Papers
 - <a href="https://tong-ni.github.io/files/CBAM.pdf" target="_blank" rel="noopener noreferrer"><strong>Carbon Border Adjustment Mechanism and Trade Policy: A Quantitative Analysis</strong></a>
-<br><span style="font-size: 0.8em;">with <a href="https://fanhaichao.weebly.com/" target="_blank" rel="noopener noreferrer">Haichao Fan</a>, <a href="https://sites.google.com/site/meiyecon/home" target="_blank" rel="noopener noreferrer">Yuan Mei</a>, and <a href="https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm" target="_blank" rel="noopener noreferrer">Huanhuan Wang</a></span>
-<br><span style="font-size: 0.8em;"><em>Job Market Paper</em></span>
+<br><span style="font-size: 0.9em;">with <a href="https://fanhaichao.weebly.com/" target="_blank" rel="noopener noreferrer">Haichao Fan</a>, <a href="https://sites.google.com/site/meiyecon/home" target="_blank" rel="noopener noreferrer">Yuan Mei</a>, and <a href="https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm" target="_blank" rel="noopener noreferrer">Huanhuan Wang</a></span>
+<br><span style="font-size: 0.9em;"><em>Job Market Paper</em></span>
 
 - <a href="https://tong-ni.github.io/files/Tariffs_as_Bargaining_Chips.pdf" target="_blank" rel="noopener noreferrer"><strong>Tariffs as Bargaining Chips: A Quantitative Analysis of US-China Trade War</strong></a>
-<br><span style="font-size: 0.8em;">with <a href="https://naiyuanh.github.io/" target="_blank" rel="noopener noreferrer">Naiyuan Hu</a> and <a href="https://sites.google.com/site/meiyecon/home" target="_blank" rel="noopener noreferrer">Yuan Mei</a></span>
-<br><span style="font-size: 0.8em;"><strong>Revise and Resubmit at <em>American Economic Journal: Microeconomics</em></strong></span>
+<br><span style="font-size: 0.9em;">with <a href="https://naiyuanh.github.io/" target="_blank" rel="noopener noreferrer">Naiyuan Hu</a> and <a href="https://sites.google.com/site/meiyecon/home" target="_blank" rel="noopener noreferrer">Yuan Mei</a></span>
+<br><span style="font-size: 0.9em;"><strong>Revise and Resubmit at <em>American Economic Journal: Microeconomics</em></strong></span>
 
-- **EU Carbon Pricing, Carbon Border Adjustments, and Global CO2 Emissions**, with <a href="https://fanhaichao.weebly.com/" target="_blank" rel="noopener noreferrer">Haichao Fan</a>, <a href="https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm" target="_blank" rel="noopener noreferrer">Huanhuan Wang</a>, and Xiaojun Wu
-<br>Conditionally Accepted at _The World Economy_
+- **EU Carbon Pricing, Carbon Border Adjustments, and Global CO2 Emissions**
+<br><span style="font-size: 0.9em;">with <a href="https://fanhaichao.weebly.com/" target="_blank" rel="noopener noreferrer">Haichao Fan</a>, <a href="https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm" target="_blank" rel="noopener noreferrer">Huanhuan Wang</a>, and Xiaojun Wu</span>
+<br><span style="font-size: 0.9em;"><strong>Conditionally Accepted at<em>The World Economy</em></strong></span>
 
-- **Investing in a Mobile Asset: Higher Education, Graduate Mobility, and Underinvestment**, with <a href="https://naiyuanh.github.io/" target="_blank" rel="noopener noreferrer">Naiyuan Hu</a>, <a href="https://lin-ma.com/index.html" target="_blank" rel="noopener noreferrer">Lin Ma</a>, and <a href="https://www.zouben.net/" target="_blank" rel="noopener noreferrer">Ben Zou</a>
-  <br>_Draft available upon request_
+- **Investing in a Mobile Asset: Higher Education, Graduate Mobility, and Underinvestment**
+<br><span style="font-size: 0.9em;">with <a href="https://naiyuanh.github.io/" target="_blank" rel="noopener noreferrer">Naiyuan Hu</a>, <a href="https://lin-ma.com/index.html" target="_blank" rel="noopener noreferrer">Lin Ma</a>, and <a href="https://www.zouben.net/" target="_blank" rel="noopener noreferrer">Ben Zou</a></span>
+<br><span style="font-size: 0.9em;"></em>Draft available upon request</em></span>
 
-- **Place-Based Relaxation of Internal Migration Restrictions and Labor Market Sorting**, with <a href="https://yutao-wang-econ.github.io/" target="_blank" rel="noopener noreferrer">Yutao Wang</a>
- <br>_Under Review. Draft available upon request_
+- **Place-Based Relaxation of Internal Migration Restrictions and Labor Market Sorting**
+<br><span style="font-size: 0.9em;">with <a href="https://yutao-wang-econ.github.io/" target="_blank" rel="noopener noreferrer">Yutao Wang</a></span>
+<br><span style="font-size: 0.9em;"></em>Under Review. Draft available upon request</em></span>
 
 ------
 ### Selected Work in Progress
-- **Caught in the Crossfire: Quantitative Trade Policy and LLM-Based Evidence on Third-Country Alignment in the U.S.–China Trade Conflict**, with <a href="https://sites.google.com/site/meiyecon/home" target="_blank" rel="noopener noreferrer">Yuan Mei</a>, Xinyu Wang, and <a href="http://www.mingzhixu.com/" target="_blank" rel="noopener noreferrer">Mingzhi Xu</a>
+- **Caught in the Crossfire: Quantitative Trade Policy and LLM-Based Evidence on Third-Country Alignment in the U.S.–China Trade Conflict**
+<br><span style="font-size: 0.9em;">with <a href="https://sites.google.com/site/meiyecon/home" target="_blank" rel="noopener noreferrer">Yuan Mei</a>, Xinyu Wang, and <a href="http://www.mingzhixu.com/" target="_blank" rel="noopener noreferrer">Mingzhi Xu</a></span>
 
-- **Love Panda, Love China: The Panda Effect on International Trade**, with <a href="http://www.mysmu.edu/faculty/plchang/" target="_blank" rel="noopener noreferrer">Pao-Li Chang</a>, <a href="https://weijinsite.weebly.com/" target="_blank" rel="noopener noreferrer">Wei Jin</a>, Dingfan Kang, and <a href="http://ae.ruc.edu.cn/szdw/qzjs/apypx/L/apylad/index.htm" target="_blank" rel="noopener noreferrer">Angdi Lu</a>
+- **Love Panda, Love China: The Panda Effect on International Trade**
+<br><span style="font-size: 0.9em;">with <a href="http://www.mysmu.edu/faculty/plchang/" target="_blank" rel="noopener noreferrer">Pao-Li Chang</a>, <a href="https://weijinsite.weebly.com/" target="_blank" rel="noopener noreferrer">Wei Jin</a>, Dingfan Kang, and <a href="http://ae.ruc.edu.cn/szdw/qzjs/apypx/L/apylad/index.htm" target="_blank" rel="noopener noreferrer">Angdi Lu</a></span>
   
 ------
 ### Publications
-- **Climate Change, Trade Cost, and Economic Growth: A Quantitative Estimation Based on International Shipping Data**, with <a href="https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm" target="_blank" rel="noopener noreferrer">Huanhuan Wang</a> and Ce Guo, _Journal of Management World(管理世界)_, 2025
+- **Climate Change, Trade Cost, and Economic Growth: A Quantitative Estimation Based on International Shipping Data**
+<br><span style="font-size: 0.9em;">with <a href="https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm" target="_blank" rel="noopener noreferrer">Huanhuan Wang</a> and Ce Guo</span>
+<br><span style="font-size: 0.9em;"><strong><em>Journal of Management World(管理世界)</em></strong>, 2025, 41(09), 94–118</span>
 <br>
 
 ------
