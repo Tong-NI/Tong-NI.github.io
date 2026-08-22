@@ -7,7 +7,7 @@ author_profile: true
 
 ------
 ### Working Papers
-- <a href="https://tong-ni.github.io/files/CBAM.pdf" target="_blank" rel="noopener noreferrer"><strong>Carbon Border Adjustment Mechanism and Trade Policy: A Quantitative Analysis</strong></a>
+- <a href="https://tong-ni.github.io/files/CBAM.pdf" target="_blank" rel="noopener noreferrer"><strong>Carbon Border Adjustment Mechanism and Trade Policy</strong></a>
 <br><span style="font-size: 0.9em;">with <a href="https://fanhaichao.weebly.com/" target="_blank" rel="noopener noreferrer">Haichao Fan</a>, <a href="https://sites.google.com/site/meiyecon/home" target="_blank" rel="noopener noreferrer">Yuan Mei</a>, and <a href="https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm" target="_blank" rel="noopener noreferrer">Huanhuan Wang</a></span>
 <br><span style="font-size: 0.9em;"><em>Job Market Paper</em></span>
 
@@ -15,17 +15,19 @@ author_profile: true
 <br><span style="font-size: 0.9em;">with <a href="https://naiyuanh.github.io/" target="_blank" rel="noopener noreferrer">Naiyuan Hu</a> and <a href="https://sites.google.com/site/meiyecon/home" target="_blank" rel="noopener noreferrer">Yuan Mei</a></span>
 <br><span style="font-size: 0.9em;"><strong>Revise and Resubmit at <em>American Economic Journal: Microeconomics</em></strong></span>
 
-- **EU Carbon Pricing, Carbon Border Adjustments, and Global CO2 Emissions**
+- **EU Carbon Pricing, Carbon Tariffs, and Global CO2 Emissions**
 <br><span style="font-size: 0.9em;">with <a href="https://fanhaichao.weebly.com/" target="_blank" rel="noopener noreferrer">Haichao Fan</a>, <a href="https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm" target="_blank" rel="noopener noreferrer">Huanhuan Wang</a>, and Xiaojun Wu</span>
 <br><span style="font-size: 0.9em;"><strong>Conditionally Accepted at <em>The World Economy</em></strong></span>
 
+- **Optimal Tariffs with Endogenous Geopolitical Affinity: Evidence from the U.S.–China Trade War**
+<br><span style="font-size: 0.9em;">with <a href="https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm" target="_blank" rel="noopener noreferrer">Huanhuan Wang</a>, Shufei Wang, and Wenjing Xie</span>
+<br><span style="font-size: 0.9em;"><strong>Selected for <em>Journal of International Money and Finance</em> Special Issue Conference </strong></span>  
+
 - **Investing in a Mobile Asset: Higher Education, Graduate Mobility, and Underinvestment**
 <br><span style="font-size: 0.9em;">with <a href="https://naiyuanh.github.io/" target="_blank" rel="noopener noreferrer">Naiyuan Hu</a>, <a href="https://lin-ma.com/index.html" target="_blank" rel="noopener noreferrer">Lin Ma</a>, and <a href="https://www.zouben.net/" target="_blank" rel="noopener noreferrer">Ben Zou</a></span>
-<br><span style="font-size: 0.9em;"><em>Draft available upon request</em></span>
 
 - **Place-Based Relaxation of Internal Migration Restrictions and Labor Market Sorting**
 <br><span style="font-size: 0.9em;">with <a href="https://yutao-wang-econ.github.io/" target="_blank" rel="noopener noreferrer">Yutao Wang</a></span>
-<br><span style="font-size: 0.9em;"><em>Under Review. Draft available upon request</em></span>
 
 ------
 ### Selected Work in Progress
