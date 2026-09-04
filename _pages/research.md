@@ -21,7 +21,7 @@ author_profile: true
 
 - **Optimal Tariffs with Endogenous Geopolitical Affinity: Evidence from the U.S.–China Trade War**
 <br><span style="font-size: 0.85em;">with <a href="https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm" target="_blank" rel="noopener noreferrer">Huanhuan Wang</a>, Shufei Wang, and Wenjing Xie</span>
-<br><span style="font-size: 0.85em;"><strong>Revise and Resubmit <em>Journal of International Money and Finance</em></strong></span>  
+<br><span style="font-size: 0.85em;"><strong>Revise and Resubmit at <em>Journal of International Money and Finance</em></strong></span>  
 
 - **Investing in a Mobile Asset: Higher Education, Graduate Mobility, and Underinvestment**
 <br><span style="font-size: 0.85em;">with <a href="https://naiyuanh.github.io/" target="_blank" rel="noopener noreferrer">Naiyuan Hu</a>, <a href="https://lin-ma.com/index.html" target="_blank" rel="noopener noreferrer">Lin Ma</a>, and <a href="https://www.zouben.net/" target="_blank" rel="noopener noreferrer">Ben Zou</a></span>
