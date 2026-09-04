@@ -21,3 +21,25 @@ You can reach me at <a href="mailto:tongni.2021@phdecons.smu.edu.sg" target="_bl
 
 
 
+<script type="text/javascript">
+var sc_project=13353455; 
+var sc_invisible=1; 
+var sc_security="03f8c5d1"; 
+</script>
+
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js" async></script>
+
+<noscript>
+<div class="statcounter">
+<a title="Web Analytics Made Easy - Statcounter"
+href="https://statcounter.com/"
+target="_blank">
+<img class="statcounter"
+src="https://c.statcounter.com/13353455/0/03f8c5d1/1/"
+alt="Web Analytics Made Easy - Statcounter"
+referrerPolicy="no-referrer-when-downgrade">
+</a>
+</div>
+</noscript>
+<!-- End of Code -->
