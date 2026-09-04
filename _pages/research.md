@@ -52,3 +52,4 @@ author_profile: true
 - Research Assistant to Prof. <a href="https://sites.google.com/site/christineho5/" target="_blank" rel="noopener noreferrer">Christine Ho</a>, Singapore Management University, 2023
 - Research Assistant to Prof. <a href="http://www.mysmu.edu/faculty/plchang/" target="_blank" rel="noopener noreferrer">Pao-Li Chang</a>, Singapore Management University, 2023-2025
 - Research Assistant to Prof. <a href="https://sites.google.com/site/meiyecon/home" target="_blank" rel="noopener noreferrer">Yuan Mei</a>, Singapore Management University, 2022-2024
+
