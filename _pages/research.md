@@ -15,10 +15,6 @@ author_profile: true
 <br><span style="font-size: 0.85em;">with <a href="https://naiyuanh.github.io/" target="_blank" rel="noopener noreferrer">Naiyuan Hu</a> and <a href="https://sites.google.com/site/meiyecon/home" target="_blank" rel="noopener noreferrer">Yuan Mei</a></span>
 <br><span style="font-size: 0.85em;"><strong>Revise and Resubmit at <em>American Economic Journal: Microeconomics</em></strong></span>
 
-- **EU Carbon Pricing, Carbon Tariffs, and Global CO2 Emissions**
-<br><span style="font-size: 0.85em;">with <a href="https://fanhaichao.weebly.com/" target="_blank" rel="noopener noreferrer">Haichao Fan</a>, <a href="https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm" target="_blank" rel="noopener noreferrer">Huanhuan Wang</a>, and Xiaojun Wu</span>
-<br><span style="font-size: 0.85em;"><strong>Conditionally Accepted at <em>The World Economy</em></strong></span>
-
 - **Optimal Tariffs with Endogenous Geopolitical Affinity: Evidence from the U.S.–China Trade War**
 <br><span style="font-size: 0.85em;">with <a href="https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm" target="_blank" rel="noopener noreferrer">Huanhuan Wang</a>, Shufei Wang, and Wenjing Xie</span>
 <br><span style="font-size: 0.85em;"><strong>Revise and Resubmit at <em>Journal of International Money and Finance</em></strong></span>  
@@ -31,6 +27,10 @@ author_profile: true
 
 - **Place-Based Relaxation of Internal Migration Restrictions and Labor Market Sorting**
 <br><span style="font-size: 0.85em;">with <a href="https://yutao-wang-econ.github.io/" target="_blank" rel="noopener noreferrer">Yutao Wang</a></span>
+
+- **EU Carbon Pricing, Carbon Tariffs, and Global CO2 Emissions**
+<br><span style="font-size: 0.85em;">with <a href="https://fanhaichao.weebly.com/" target="_blank" rel="noopener noreferrer">Haichao Fan</a>, <a href="https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm" target="_blank" rel="noopener noreferrer">Huanhuan Wang</a>, and Xiaojun Wu</span>
+<br><span style="font-size: 0.85em;"><strong>Conditionally Accepted at <em>The World Economy</em></strong></span>
 
 ------
 ### Selected Work in Progress
