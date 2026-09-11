@@ -14,7 +14,7 @@ I received my Ph.D. in Economics from the <a href="https://economics.smu.edu.sg/
 
 My research interests are **International Trade** and **Spatial Economics**. My work studies strategic interactions in trade policy across governments, the interplay between trade and the environment, and public policies that shape the spatial allocation of human capital. Methodologically, I combine reduced-form causal inference with structural quantitative methods. More recently, I have also been exploring the use of AI and machine learning to solve and analyze high-dimensional quantitative models.
 
-**CV**: <a href="https://tong-ni.github.io/files/NI_Tong_CV.pdf" target="_blank" rel="noopener noreferrer" class="btn--research">PDF(EN)</a>, <a href="https://tong-ni.github.io/files/NI_Tong_CV_ZH.pdf" target="_blank" rel="noopener noreferrer" class="btn--research">PDF(中文)</a>
+**CV**: <a href="https://tong-ni.github.io/files/NI_Tong_CV.pdf" target="_blank" rel="noopener noreferrer" class="btn--research">PDF</a>, <a href="https://tong-ni.github.io/files/NI_Tong_CV_ZH.pdf" target="_blank" rel="noopener noreferrer" class="btn--research">PDF(中文)</a>
 
 <br>
 
