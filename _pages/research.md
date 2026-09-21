@@ -38,10 +38,11 @@ author_profile: true
   
 ------
 ### Publications
-- **Climate Change, Trade Cost, and Economic Growth: A Quantitative Estimation Based on International Shipping Data**
-<br><span style="font-size: 0.85em;">with <a href="https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm" target="_blank" rel="noopener noreferrer">Huanhuan Wang</a> and Ce Guo</span>
-<br><span style="font-size: 0.85em;"><strong><em>Journal of Management World(管理世界)</em></strong>, 2025, 41(09), 94–118</span>
 
 - **EU Carbon Pricing, Carbon Tariffs, and Global CO2 Emissions**
 <br><span style="font-size: 0.85em;">with <a href="https://fanhaichao.weebly.com/" target="_blank" rel="noopener noreferrer">Haichao Fan</a>, <a href="https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm" target="_blank" rel="noopener noreferrer">Huanhuan Wang</a>, and Xiaojun Wu</span>
 <br><span style="font-size: 0.85em;"><strong>Accepted at <em>The World Economy</em></strong></span>
+
+- **Climate Change, Trade Cost, and Economic Growth: A Quantitative Estimation Based on International Shipping Data**
+<br><span style="font-size: 0.85em;"><a href="https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm" target="_blank" rel="noopener noreferrer">Huanhuan Wang</a>, Ce Guo, Tong Ni</span>
+<br><span style="font-size: 0.85em;"><strong><em>Journal of Management World(管理世界)</em></strong>, 2025, 41(09), 94–118</span>
