@@ -9,7 +9,6 @@ author_profile: true
 ### Working Papers
 - <a href="https://tong-ni.github.io/files/CBAM.pdf" target="_blank" rel="noopener noreferrer"><strong>Carbon Border Adjustment Mechanism and Trade Policy</strong></a>
 <br><span style="font-size: 0.85em;">with <a href="https://fanhaichao.weebly.com/" target="_blank" rel="noopener noreferrer">Haichao Fan</a>, <a href="https://sites.google.com/site/meiyecon/home" target="_blank" rel="noopener noreferrer">Yuan Mei</a>, and <a href="https://law.ecnu.edu.cn/4d/3b/c45341a609595/page.htm" target="_blank" rel="noopener noreferrer">Huanhuan Wang</a></span>
-<br><span style="font-size: 0.85em;"><em>Job Market Paper</em></span>
 
 - <a href="https://tong-ni.github.io/files/Tariffs_as_Bargaining_Chips.pdf" target="_blank" rel="noopener noreferrer"><strong>Tariffs as Bargaining Chips: A Quantitative Analysis of US-China Trade War</strong></a>
 <br><span style="font-size: 0.85em;">with <a href="https://naiyuanh.github.io/" target="_blank" rel="noopener noreferrer">Naiyuan Hu</a> and <a href="https://sites.google.com/site/meiyecon/home" target="_blank" rel="noopener noreferrer">Yuan Mei</a></span>
@@ -30,8 +29,8 @@ author_profile: true
 
 ------
 ### Selected Work in Progress
-- **Caught in the Crossfire: Quantitative Trade Policy and LLM-Based Evidence on Third-Country Alignment in the U.S.–China Trade Conflict**
-<br><span style="font-size: 0.85em;">with <a href="https://sites.google.com/site/meiyecon/home" target="_blank" rel="noopener noreferrer">Yuan Mei</a>, Xinyu Wang, and <a href="http://www.mingzhixu.com/" target="_blank" rel="noopener noreferrer">Mingzhi Xu</a></span>
+- **My Rival, Your Problem: Tariff Threats and Optimal Trade Policy**
+<br><span style="font-size: 0.85em;">with <a href="https://sites.google.com/site/meiyecon/home" target="_blank" rel="noopener noreferrer">Yuan Mei</a>, Xinyu Wang, and <a href="http://www.mingzhixu.com/" target="_blank" rel="noopener noreferrer">Mingzhi (Jimmy) Xu</a></span>
 
 - **Love Panda, Love China: The Panda Effect on International Trade**
 <br><span style="font-size: 0.85em;">with <a href="http://www.mysmu.edu/faculty/plchang/" target="_blank" rel="noopener noreferrer">Pao-Li Chang</a>, <a href="https://weijinsite.weebly.com/" target="_blank" rel="noopener noreferrer">Wei Jin</a>, Dingfan Kang, and <a href="http://ae.ruc.edu.cn/szdw/qzjs/apypx/L/apylad/index.htm" target="_blank" rel="noopener noreferrer">Angdi Lu</a></span>
