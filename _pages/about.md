@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Welcome!
-I am an Assistant Professor at the <a href="https://iaer.dufe.edu.cn/" target="_blank" rel="noopener noreferrer">Institute for Advanced Economic Research, Dongbei University of Finance and Economics</a>. Prior to this, I received my Ph.D. in Economics from Singapore Management University in 2026. 
+I am an Assistant Professor of Economics at the <a href="https://iaer.dufe.edu.cn/" target="_blank" rel="noopener noreferrer">Institute for Advanced Economic Research, Dongbei University of Finance and Economics</a>. Prior to this, I received my Ph.D. in Economics from Singapore Management University in 2026. 
 
 My research interests are **International Trade** and **Spatial Economics**. My current work focuses on (1) strategic interactions among governments in trade policy; (2) the interplay between international trade, global supply chains, and environmental policies; and (3) the effects of public policies on the spatial allocation of human capital and regional development. Methodologically, I combine reduced-form causal inference with structural quantitative methods. More recently, I have also been exploring the use of AI and machine learning to solve and analyze high-dimensional quantitative models.
 
