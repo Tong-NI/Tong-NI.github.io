@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ------
+### Instructor, Dongbei University of Finance and Economics
+- Mathematical Economics (Undergraduate), Spring 2027
+
 ### Teaching Assistant, Singapore Management University
 - Principles of Economics I (Undergraduate), Prof. Bei Hong, Spring 2026
 - International Economics (Undergraduate), Prof. Yuan Mei, Fall 2024 & 2025
